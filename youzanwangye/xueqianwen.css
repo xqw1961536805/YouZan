@@ -1,5 +1,4 @@
 #header1{
-
     min-width: 1000px;
     width: 100%;
     height: auto;
@@ -13,71 +12,11 @@
 
 
 #header2{
-
-
-box-sizing: border-box;
-margin: 0 auto;
-width: 1100px;
-height: 70px;
-zoom: 1;
-
-
-}
-
-.mzlogo{
-    display: inline-block;
-    text-decoration: none;
-    width: 72px;
-    height: 25px;
-    margin-top: 22.5px;
-    background-size: 72px 25px;
-    background-image: url(youzan.png);
-
-
-}
-
-
-
-
-
-
-
-
-
-#hk08083{
-    display: inline-block;
-    width: 60px;
-    margin-left: 10px;
-    margin-bottom: -1px;
-}
-
-
-
-
-.hk1{
-    float: left;
-    width: 78px;
-    color: #999;
-    font-size: 10px;
-    font-family: 'PingFang SC';
-    font-weight: 300;
-    line-height: 13px;
-    text-decoration: none;
-
-}
-
-.hk2{
-
-
-    float: left;
-    width: 78px;
-    color: #999;
-    font-size: 10px;
-    font-family: 'PingFang SC';
-    font-weight: 300;
-    line-height: 13px;
-    text-decoration: none;
-
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 1100px;
+    height: 70px;
+    zoom: 1;
 }
 
 #header3{
@@ -88,8 +27,48 @@ zoom: 1;
     box-sizing: border-box;
     margin-left: 15%;
     margin-top:0.5%;
-  
 }
+
+
+.mzlogo{
+    display: inline-block;
+    text-decoration: none;
+    width: 72px;
+    height: 25px;
+    margin-top: 22.5px;
+    background-size: 72px 25px;
+    background-image: url(youzan.png);
+}
+
+#hkdm{
+    display: inline-block;
+    width: 60px;
+    margin-left: 10px;
+    margin-bottom: -1px;
+}
+
+.hkdm1{
+    float: left;
+    width: 78px;
+    color: #999;
+    font-size: 10px;
+    font-family: 'PingFang SC';
+    font-weight: 300;
+    line-height: 13px;
+    text-decoration: none;
+}
+
+.hkdm2{
+    float: left;
+    width: 78px;
+    color: #999;
+    font-size: 10px;
+    font-family: 'PingFang SC';
+    font-weight: 300;
+    line-height: 13px;
+    text-decoration: none;
+}
+
 
 .x{
     display:inline-block;
@@ -109,20 +88,13 @@ zoom: 1;
     padding-top: 15px;
     padding-left:4%;
     font-size: 90%;
-    font: inherit;
+ 
     text-decoration: none;
     font-family: inherit;
-
 }
 
-
-
 .xx:hover{
-
-
-
 color:red;
-
 }
 
 
@@ -136,20 +108,15 @@ color:red;
     border-radius: 2px;
     box-sizing: border-box;
 
-
 }
 .denglu{
-
     cursor: pointer;
     text-decoration: none;
     color: #2B90ED;
-
-
 }
 
 
 #zhuce{
-
     width: 80px;
     height: 30px;
     display: inline-block;
@@ -157,35 +124,24 @@ color:red;
     background-color: #2B90ED;
     text-align: center;
     border-radius: 2px;
-    
     margin-left: 10px;
-    margin-top:9px;
-
-
-
+    margin-top:10px;
 }
 .zhuce{
-
-
     text-decoration: none; 
     cursor: pointer;
     color: #ffffff;
     line-height: 30px;
-
 }
   
 
 #ph1{
-
     width: 120%;
     height: 100%px;
-
     display: inline-block;
 }
 
-
 .img{
-
     position: relative;
     display: inline-block;
     width: 120%;
@@ -195,11 +151,6 @@ color:red;
     background-position-y: center;
     margin-top:-0.6%;
     background-image: url(youzan1.jpg);
-
-
-
-
-
 }
 
 #ph2{
@@ -207,7 +158,6 @@ color:red;
     display: inline-block;
     width: 50px;
     height: 50px;
-
 }
 
 
@@ -219,21 +169,18 @@ color:red;
     position: absolute;
     top: 100px;
     left:450px;
-
 }
 
 
 .h2{
-
     display: block;
     margin-top: 10px;
-    
     font-size: 20px;
-        color: #777;
-        margin-bottom: 55px;
-        position: absolute;
-        top: 160px;
-        left:450px;
+    color: #777;
+    margin-bottom: 55px;
+    position: absolute;
+    top: 160px;
+    left:450px;
 
 }
 
@@ -250,8 +197,6 @@ color:red;
     font-size: 14px;
     text-decoration: none;
     border-radius: 2px;
-
-
     position: absolute;
     top: 250px;
     left:450px;
@@ -262,10 +207,7 @@ color:red;
 
 
 .dianhua{
-
-
     display: block;
-
     font-size: 14px;
     color: #777;
     margin-top: 15px;
@@ -275,10 +217,7 @@ color:red;
 
 }
 
-
-
 #cb{
-
     position: absolute;
     display: inline-block;
     width: 100%;
@@ -289,7 +228,6 @@ color:red;
 
 
 #xcb{
-
     position: absolute;
     display: inline-block;
     width: 50%;
