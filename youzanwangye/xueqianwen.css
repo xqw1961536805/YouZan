@@ -1,0 +1,508 @@
+#header1{
+
+    min-width: 1000px;
+    width: 100%;
+    height: auto;
+    position: relative;
+    background: #ffffff;
+    border-bottom: 1px solid #ededed;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+    z-index: 200;
+    transition: all 0.5s ease-in;
+}
+
+
+#header2{
+
+
+box-sizing: border-box;
+margin: 0 auto;
+width: 1100px;
+height: 70px;
+zoom: 1;
+
+
+}
+
+.mzlogo{
+    display: inline-block;
+    text-decoration: none;
+    width: 72px;
+    height: 25px;
+    margin-top: 22.5px;
+    background-size: 72px 25px;
+    background-image: url(youzan.png);
+
+
+}
+
+
+
+
+
+
+
+
+
+#hk08083{
+    display: inline-block;
+    width: 60px;
+    margin-left: 10px;
+    margin-bottom: -1px;
+}
+
+
+
+
+.hk1{
+    float: left;
+    width: 78px;
+    color: #999;
+    font-size: 10px;
+    font-family: 'PingFang SC';
+    font-weight: 300;
+    line-height: 13px;
+    text-decoration: none;
+
+}
+
+.hk2{
+
+
+    float: left;
+    width: 78px;
+    color: #999;
+    font-size: 10px;
+    font-family: 'PingFang SC';
+    font-weight: 300;
+    line-height: 13px;
+    text-decoration: none;
+
+}
+
+#header3{
+    display: inline-block;
+    width: 700px;
+    height: 40px;
+    position: absolute;
+    box-sizing: border-box;
+    margin-left: 15%;
+    margin-top:0.5%;
+  
+}
+
+.x{
+    display:inline-block;
+    width: auto;
+    margin-bottom: auto;
+    font: inherit;
+    font-size: 90%;
+    color: red;
+    text-decoration: none;
+}
+
+
+.xx{
+    display: inline-block;
+    color: #2c3a46;
+    width:auto;
+    padding-top: 15px;
+    padding-left:4%;
+    font-size: 90%;
+    font: inherit;
+    text-decoration: none;
+    font-family: inherit;
+
+}
+
+
+
+.xx:hover{
+
+
+
+color:red;
+
+}
+
+
+#denglu{
+    width: 80px;
+    height: 30px;
+    line-height: 28px;
+    display: inline-block;
+    border: 1px solid #2B90ED;
+    text-align: center;
+    border-radius: 2px;
+    box-sizing: border-box;
+
+
+}
+.denglu{
+
+    cursor: pointer;
+    text-decoration: none;
+    color: #2B90ED;
+
+
+}
+
+
+#zhuce{
+
+    width: 80px;
+    height: 30px;
+    display: inline-block;
+    position: absolute;
+    background-color: #2B90ED;
+    text-align: center;
+    border-radius: 2px;
+    
+    margin-left: 10px;
+    margin-top:9px;
+
+
+
+}
+.zhuce{
+
+
+    text-decoration: none; 
+    cursor: pointer;
+    color: #ffffff;
+    line-height: 30px;
+
+}
+  
+
+#ph1{
+
+    width: 120%;
+    height: 100%px;
+
+    display: inline-block;
+}
+
+
+.img{
+
+    position: relative;
+    display: inline-block;
+    width: 120%;
+    height: 400px;
+    background-size: cover;
+    background-position-x: 100%;
+    background-position-y: center;
+    margin-top:-0.6%;
+    background-image: url(youzan1.jpg);
+
+
+
+
+
+}
+
+#ph2{
+    position: absolute;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+
+}
+
+
+.h1{
+    display: block;
+    font-size:44px;
+    line-height: 62px;
+    color: #333;
+    position: absolute;
+    top: 100px;
+    left:450px;
+
+}
+
+
+.h2{
+
+    display: block;
+    margin-top: 10px;
+    
+    font-size: 20px;
+        color: #777;
+        margin-bottom: 55px;
+        position: absolute;
+        top: 160px;
+        left:450px;
+
+}
+
+
+.button{
+    display: block;
+    width: 75px;
+    height: 15px;
+    line-height: 18px;  
+    text-align: center;
+    background: #38f;
+    padding: 12px 42px;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 2px;
+
+
+    position: absolute;
+    top: 250px;
+    left:450px;
+
+
+}
+
+
+
+.dianhua{
+
+
+    display: block;
+
+    font-size: 14px;
+    color: #777;
+    margin-top: 15px;
+    position: absolute;
+    top: 290px;
+    left:450px;
+
+}
+
+
+
+#cb{
+
+    position: absolute;
+    display: inline-block;
+    width: 100%;
+    height: 425px;
+    margin-top:8%;
+    left:5px;
+}
+
+
+#xcb{
+
+    position: absolute;
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    left:30%;
+
+}
+
+
+
+.cb1{
+	width:520px;
+    display: inline-block;
+    font-family: PingFangSC-Medium;
+    font-size: 28px;
+    color: #333;
+    position: absolute;
+    left:35%;
+    top:-12%;
+}
+
+.cb2{
+
+    display: inline-block;
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: PingFangSC-Medium;
+    position: absolute;
+    top:17%;
+    left: -15%;
+
+
+}
+
+
+.cb3{
+
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #999;
+    line-height: 24px;
+    display: inline-block;
+    position: absolute;
+    top:24%;
+    left: -15%;
+
+
+}
+
+
+.cb4{
+
+
+    display: inline-block;
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: PingFangSC-Medium;
+
+    position: absolute;
+    top:35.5%;
+    left:-15%;
+
+
+}
+
+
+.cb5{
+
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #999;
+    line-height: 24px;
+    display: inline-block;
+    position: absolute;
+    top:42.5%;
+    left: -15%;
+
+
+
+}
+.cb6{
+
+    display: inline-block;
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: PingFangSC-Medium;
+
+    position: absolute;
+    top:54%;
+    left: -15%;
+
+}
+
+.cb7{
+
+
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #999;
+    line-height: 24px;
+    display: inline-block;
+    position: absolute;
+    top:61%;
+    left:-15%;
+
+
+}
+
+
+.cb8{
+
+    display: inline-block;
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: PingFangSC-Medium;
+
+    position: absolute;
+    top:72%;
+    left:-15%;
+
+}
+
+
+.cb9{
+
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #999;
+    line-height: 24px;
+    display: inline-block;
+    position: absolute;
+    top:79%;
+    left:-15%;
+
+}
+
+
+.cbmf{
+
+    display: inline-block;
+    width: 56px;
+    height: 15px;
+    line-height: 18px;
+    text-align: center;
+    background: #38f;
+    padding: 12px 42px;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 2px;
+
+    position: absolute;
+    top:90%;
+    left: -15%;
+ margin-left:0.5%;
+  
+
+}
+
+
+.cbgn{
+
+    border: 1px solid #38f;
+    color: #38f;
+    padding: 9px 42px;
+    font-size: 14px;
+    border-radius: 2px;
+    display: inline-block;
+    text-decoration: none; 
+    margin-left:0.5%;
+display:inline-block;
+position: absolute;
+top:90%;
+left: 3%;
+width: 56px;
+
+}
+
+#cbyp{
+    display:inline-block;
+    background-image:url(cbyp.png);
+    width: 570px;
+    height: 100%;
+    position: absolute;
+
+    top:2%;
+    left:50%;
+
+   
+
+
+}
+
+.jiantou-right{
+    display:inline-block;
+    position: absolute;
+    left:80%;
+    top:45%;
+
+ 
+
+}
+
+.jiantou-left{
+
+display:inline-block;
+position: absolute;
+ left:15%;
+    top:45%;
+   
+
+}
