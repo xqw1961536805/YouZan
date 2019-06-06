@@ -1,0 +1,47 @@
+
+#big{
+
+    display: inline-block;
+    cursor: pointer;
+    width: 256px;
+    height: 200px;
+    border: 1px solid #e5e5e5;
+    border-radius: 2px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    transition: .5s;
+}
+
+#big:hover{
+
+    border-color: blue;
+
+}
+
+
+#tou{
+    height: 150px;
+    background: url(1.png)
+}
+
+
+
+
+.xcx{
+    font-size: 18px;
+
+
+}
+
+#wei{
+
+    padding: 10px 0;
+    width: 258px;
+    height: 92px;
+    text-align: center;
+    line-height: 36px;
+
+    position: absolute;
+    top:160px;
+
+}
